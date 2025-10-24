@@ -38,14 +38,6 @@
       "description": "Kue lapis dengan rasa manis dan tekstur lembut",
       "image": "https://via.placeholder.com/300x200?text=Lapis+Legit",
       "category": "Kue Tradisional"
-    },
-    {
-      "id": 1761317888771,
-      "name": "Lumpur",
-      "price": 2500,
-      "description": "kue lembut dengan campuran kentang",
-      "image": "https://raw.githubusercontent.com/robingladys/katalog/refs/heads/main/djandes15-24-10-2025-0001.jpg",
-      "category": "Kue Tradisional"
     }
   ]
 }
