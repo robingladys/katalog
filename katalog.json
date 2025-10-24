@@ -13,8 +13,10 @@
   "contactInfo": {
     "whatsapp": "+62 858-1200-6225",
     "phone": "+62 858-1200-6225",
-    "email": "info@djandes.com",
-    "address": "Jl. Kue Basah No. 123"
+    "email": "",
+    "address": "Jl. Anggrek , RT 004 / RW 013 , Tegalrejo ,Sawentar ,Kanigoro ,Blitar.",
+    "mapUrl": "",
+    "businessHours": "Kecuali Libur"
   },
   "categories": [
     "Semua",
