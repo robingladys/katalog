@@ -39,6 +39,14 @@
       "description": "kue lumer dengan kadungan kentang",
       "image": "https://raw.githubusercontent.com/robingladys/katalog/refs/heads/main/djandes15-24-10-2025-0001.jpg",
       "category": "Kue Tradisional"
+    },
+    {
+      "id": 1761320994566,
+      "name": "Lemper",
+      "price": 126000,
+      "description": "Kue ketan dengan isian Abon/ayam suir",
+      "image": "https://raw.githubusercontent.com/robingladys/katalog/refs/heads/main/djandes15-24-10-2025-0001.jpg",
+      "category": "Kue Tradisional"
     }
   ]
 }
