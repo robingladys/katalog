@@ -25,14 +25,5 @@
     "Kue Kering",
     "Hantaran"
   ],
-  "products": [
-    {
-      "id": 1761321113169,
-      "name": "Lemper ( hantaran )",
-      "price": 126000,
-      "description": "Kue ketan dengan santan isian abon/ suir ayam manis asin gurih",
-      "image": "https://raw.githubusercontent.com/robingladys/katalog/refs/heads/main/djandes15-24-10-2025-0001.jpg",
-      "category": "Hantaran"
-    }
-  ]
+  "products": []
 }
