@@ -33,6 +33,14 @@
       "description": "terbuat dari ketan pulen berisi abon atau ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lemper.jpg/500px-Lemper.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761330098406,
+      "name": "Lemper",
+      "price": 2500,
+      "description": "terbuat dari ketan pulen berisi abon atau ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lemper.jpg/500px-Lemper.jpg",
+      "category": "Kue Tradisional"
     }
   ]
 }
