@@ -22,5 +22,14 @@
     "Kue Modern",
     "Kue Kering"
   ],
-  "products": []
+  "products": [
+    {
+      "id": 1761319316280,
+      "name": "lemper",
+      "price": 2500,
+      "description": "ketan dengan isian abon/ayam dengan bungkus daun pisang",
+      "image": "https://raw.githubusercontent.com/robingladys/katalog/refs/heads/main/djandes15-24-10-2025-0001.jpg",
+      "category": "Kue Tradisional"
+    }
+  ]
 }
