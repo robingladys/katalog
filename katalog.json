@@ -30,14 +30,6 @@
       "description": "Kue tradisional berisi gula merah yang lumer",
       "image": "https://via.placeholder.com/300x200?text=Klepon",
       "category": "Kue Tradisional"
-    },
-    {
-      "id": 2,
-      "name": "Lapis Legit",
-      "price": 45000,
-      "description": "Kue lapis dengan rasa manis dan tekstur lembut",
-      "image": "https://via.placeholder.com/300x200?text=Lapis+Legit",
-      "category": "Kue Tradisional"
     }
   ]
 }
