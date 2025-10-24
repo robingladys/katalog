@@ -22,14 +22,5 @@
     "Kue Modern",
     "Kue Kering"
   ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Klepon",
-      "price": 5000,
-      "description": "Kue tradisional berisi gula merah yang lumer",
-      "image": "https://via.placeholder.com/300x200?text=Klepon",
-      "category": "Kue Tradisional"
-    }
-  ]
+  "products": []
 }
