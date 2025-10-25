@@ -145,6 +145,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/karamel.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761368585958,
+      "name": "Pie buah  ( Hantaran )",
+      "price": 132500,
+      "description": "kue tart mini dengan kulit pastry renyah yang diisi vla lembut dan dihias dengan aneka potongan buah segar di atasnya.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
