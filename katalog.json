@@ -153,6 +153,14 @@
       "description": "kue tart mini dengan kulit pastry renyah yang diisi vla lembut dan dihias dengan aneka potongan buah segar di atasnya.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761368682877,
+      "name": "Pie brownies  ( Hantaran )",
+      "price": 132500,
+      "description": "Perpaduan lezat antara kulit pie renyah dan isian brownies cokelat lembut di dalamnya.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
