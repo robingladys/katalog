@@ -209,6 +209,14 @@
       "description": "sajian soslo yang disusun tinggi menyerupai tower, ayam cincang dengan kulit lumpia renyah.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761370004874,
+      "name": "Pastel  ( Hantaran )",
+      "price": 105000,
+      "description": "kue goreng berbentuk setengah lingkaran dengan kulit tipis renyah dan isi sayuran, telur, ayam berbumbu gurih.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
