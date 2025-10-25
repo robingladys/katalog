@@ -257,6 +257,14 @@
       "description": "Rangkaian buah segar pilihan yang disusun cantik dalam keranjang atau kemasan elegan, cocok untuk hadiah, ucapan selamat, atau hampers acara spesial.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/parcell.jpg?updatedAt=1761370956953",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761371256666,
+      "name": "Wedding Tart",
+      "price": 9999,
+      "description": "kue tart elegan yang dirancang khusus untuk acara pernikahan, biasanya terdiri dari lapisan sponge cake lembut, vla atau krim, dan hiasan dekoratif cantik.",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/weddingtart.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
