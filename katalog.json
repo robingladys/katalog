@@ -137,6 +137,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/puding.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761366531770,
+      "name": "Bolu Karamel  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/karamel.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
