@@ -233,6 +233,14 @@
       "description": "kue tradisional wajik manis legit dan jadah gurih lembut, terbuat dari beras ketan, gula merah, partan kelapa dan santan.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761370289022,
+      "name": "Lumpur Kentang  ( Hantaran )",
+      "price": 115000,
+      "description": "kue tradisional lembut yang terbuat dari kentang, tepung, telur, dan gula, menghasilkan tekstur kenyal dan lembut.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
