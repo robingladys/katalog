@@ -137,6 +137,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/putu2.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761365901083,
+      "name": "Onde - onde  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/onde.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
