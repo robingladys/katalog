@@ -105,6 +105,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761365658085,
+      "name": "Kue thok  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/tok.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
