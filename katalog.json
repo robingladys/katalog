@@ -44,7 +44,11 @@
       "price": 120000,
       "description": "kue pastry berlapis renyah yang berisi irisan pisang dan cokelat atau keju di dalamnya.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/bolenpisang.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/bolenpisang.jpg",
+        "https://asset.kompas.com/crops/7GbOhLoiXZgKGYDJALE9GYZtDdA=/130x72:881x573/1200x800/data/photo/2023/12/20/658228791e318.jpeg"
+      ]
     },
     {
       "id": 1761365259154,
