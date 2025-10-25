@@ -68,10 +68,16 @@
     }
   ],
   "aboutContent": {
-    "title": "Tentang DJANDES",
+    "title": "",
     "description": "",
-    "history": "Berdiri sejak 2021, DJANDES telah melayani puluhan pelanggan dengan berbagai produk kue basah yang lezat dan berkualitas.",
-    "vision": "Menjadi toko kue basah terdepan yang selalu memberikan pengalaman terbaik bagi pelanggan.",
-    "mission": "Menyediakan kue basah dengan bahan berkualitas, rasa autentik, dan pelayanan terbaik."
+    "history": "",
+    "vision": "",
+    "mission": "",
+    "detail": "",
+    "commitment": "",
+    "quality": "",
+    "fresh": "",
+    "service": "",
+    "delivery": ""
   }
 }
