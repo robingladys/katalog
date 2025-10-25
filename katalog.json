@@ -35,22 +35,6 @@
       "category": "Hantaran"
     },
     {
-      "id": 1761330098406,
-      "name": "Lemper",
-      "price": 2500,
-      "description": "terbuat dari ketan pulen berisi abon atau ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lemper.jpg/500px-Lemper.jpg",
-      "category": "Kue Tradisional"
-    },
-    {
-      "id": 1761330196522,
-      "name": "Wajik ( Hantaran )",
-      "price": 126000,
-      "description": "dibuat dari beras ketan, gula merah, dan santan, dimasak hingga legit dan manis dengan aroma khas gula jawa.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/8._Wajik_3.jpg/500px-8._Wajik_3.jpg",
-      "category": "Hantaran"
-    },
-    {
       "id": 1761330349978,
       "name": "Jadah ( Hantaran )",
       "price": 126000,
