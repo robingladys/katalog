@@ -201,6 +201,14 @@
       "description": "Sajian Risol yang disusun tinggi menyerupai tower, berisi sayuran segar, ayam, atau daging cincang dengan kulit lumpia renyah.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761369883058,
+      "name": "Sosis solo Tower",
+      "price": 150000,
+      "description": "sajian soslo yang disusun tinggi menyerupai tower, ayam cincang dengan kulit lumpia renyah.",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
