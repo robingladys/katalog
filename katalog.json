@@ -129,6 +129,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/wajik.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761366457110,
+      "name": "Puding susu  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/puding.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
