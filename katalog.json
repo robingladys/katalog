@@ -73,6 +73,14 @@
       "description": "Bolu",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/gulung.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761365369638,
+      "name": "Wingko babat  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
