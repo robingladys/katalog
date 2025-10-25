@@ -249,6 +249,14 @@
       "description": "kue lembut dan mengembang sempurna yang dibuat dari tepung, telur, gula, dan bahan perisa seperti pandan atau cokelat, dikukus hingga matang.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761370438578,
+      "name": "Parcell Buah Polynett",
+      "price": 250000,
+      "description": "Rangkaian buah segar pilihan yang disusun cantik dalam keranjang atau kemasan elegan, cocok untuk hadiah, ucapan selamat, atau hampers acara spesial.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
