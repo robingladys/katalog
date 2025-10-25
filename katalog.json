@@ -129,6 +129,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/jadah.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761365848544,
+      "name": "Putu ayu  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/putu2.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
