@@ -177,6 +177,14 @@
       "description": "dadar gulung pandan yang diisi kelapa parut manis dan dibentuk menyerupai bunga mawar cantik.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761369522206,
+      "name": "Bikang  ( Hantaran )",
+      "price": 105000,
+      "description": "kue tradisional berbentuk bunga besar atau motif unik, terbuat dari tepung beras, santan, dan gula.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
