@@ -68,7 +68,11 @@
       "price": 135000,
       "description": "terbuat dari kelapa parut, tepung ketan, gula, dan santan, kemudian dipanggang hingga beraroma harum dan bertekstur kenyal legit.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat.jpg",
+        "https://awsimages.detik.net.id/community/media/visual/2023/03/30/resep-wingko-babat_43.jpeg?w=1200"
+      ]
     },
     {
       "id": 1761365440506,
