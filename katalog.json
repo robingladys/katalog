@@ -225,6 +225,14 @@
       "description": "terbuat dari ketan pulen berisi ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761370218863,
+      "name": "Wajik + Jadah  ( Hantaran )",
+      "price": 315000,
+      "description": "kue tradisional wajik manis legit dan jadah gurih lembut, terbuat dari beras ketan, gula merah, partan kelapa dan santan.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
