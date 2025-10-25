@@ -81,6 +81,14 @@
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761365440506,
+      "name": "Fudgy brownies  ( Hantaran )",
+      "price": 126000,
+      "description": "-",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/fudgybrownies.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
