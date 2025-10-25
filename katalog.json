@@ -193,6 +193,14 @@
       "description": "terbuat dari adonan tepung dan telur, diisi tape singkong manis fermentasi yang khas rasanya.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761369803702,
+      "name": "Risol Tower  ( Hantaran )",
+      "price": 130000,
+      "description": "Sajian Risol yang disusun tinggi menyerupai tower, berisi sayuran segar, ayam, atau daging cincang dengan kulit lumpia renyah.",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
