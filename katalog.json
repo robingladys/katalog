@@ -169,6 +169,14 @@
       "description": "pastry berlapis yang dibuat dari adonan tepung dan mentega sehingga menghasilkan tekstur ringan, renyah, dan berlapis-lapis saat dipanggang.",
       "image": "img/gambar.jpg",
       "category": "Hantaran"
+    },
+    {
+      "id": 1761369459952,
+      "name": "Dadar gulung mawar  ( Hantaran )",
+      "price": 103000,
+      "description": "dadar gulung pandan yang diisi kelapa parut manis dan dibentuk menyerupai bunga mawar cantik.",
+      "image": "img/gambar.jpg",
+      "category": "Hantaran"
     }
   ],
   "aboutContent": {
