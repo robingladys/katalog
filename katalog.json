@@ -305,9 +305,9 @@
     "delivery": ""
   },
   "themeSettings": {
-    "primaryColor": "#e74c3c",
-    "secondaryColor": "#c0392b",
-    "backgroundColor": "#fdf2f2",
-    "textColor": "#7f1e1e"
+    "primaryColor": "#bb86fc",
+    "secondaryColor": "#3700b3",
+    "backgroundColor": "#121212",
+    "textColor": "#ffffff"
   }
 }
