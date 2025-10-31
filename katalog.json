@@ -198,11 +198,14 @@
     },
     {
       "id": 1761368682877,
-      "name": "Pie brownies  ( Hantaran )",
+      "name": "Pie brownies",
       "price": 132500,
       "description": "Perpaduan lezat antara kulit pie renyah dan isian brownies cokelat lembut di dalamnya.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761368763118,
