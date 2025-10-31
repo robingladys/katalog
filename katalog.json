@@ -301,11 +301,14 @@
     },
     {
       "id": 1761370289022,
-      "name": "Lumpur Kentang  ( Hantaran )",
+      "name": "Lumpur Kentang",
       "price": 115000,
       "description": "kue tradisional lembut yang terbuat dari kentang, tepung, telur, dan gula, menghasilkan tekstur kenyal dan lembut.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761370358502,
