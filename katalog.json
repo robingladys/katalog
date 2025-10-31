@@ -222,11 +222,14 @@
     },
     {
       "id": 1761369459952,
-      "name": "Dadar gulung mawar  ( Hantaran )",
+      "name": "Dadar gulung mawar",
       "price": 103000,
       "description": "dadar gulung pandan yang diisi kelapa parut manis dan dibentuk menyerupai bunga mawar cantik.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761369522206,
