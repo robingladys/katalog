@@ -288,11 +288,14 @@
     },
     {
       "id": 1761370078128,
-      "name": "Lemper  ( Hantaran )",
+      "name": "Lemper",
       "price": 110000,
       "description": "terbuat dari ketan pulen berisi ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761370218863,
