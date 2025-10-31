@@ -165,11 +165,14 @@
     },
     {
       "id": 1761366457110,
-      "name": "Puding susu clasic + Vla ( Hantaran )",
+      "name": "Puding susu clasic + Vla",
       "price": 117500,
       "description": "terbuat dari susu murni, agar-agar, dan sedikit gula, menghasilkan rasa manis ringan dan creamy. Disajikan dengan vla vanila lembut di atasnya.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/pudingvla.jpg?updatedAt=1761370890554",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/pudingvla.jpg?updatedAt=1761370890554"
+      ]
     },
     {
       "id": 1761366531770,
