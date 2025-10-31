@@ -176,11 +176,14 @@
     },
     {
       "id": 1761366531770,
-      "name": "Caramel  ( Hantaran )",
+      "name": "Caramel",
       "price": 95000,
       "description": "Terbuat dari gula yang dimasak hingga menjadi karamel, kemudian dicampur dengan adonan tepung dan telur.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/karamel.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/karamel.jpg"
+      ]
     },
     {
       "id": 1761368585958,
