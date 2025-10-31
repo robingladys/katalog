@@ -247,11 +247,14 @@
     },
     {
       "id": 1761369595726,
-      "name": "Proll Tape  ( Hantaran )",
+      "name": "Proll Tape",
       "price": 115000,
       "description": "terbuat dari adonan tepung dan telur, diisi tape singkong manis fermentasi yang khas rasanya.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761369803702,
