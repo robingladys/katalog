@@ -143,11 +143,14 @@
     },
     {
       "id": 1761365848544,
-      "name": "Putu ayu  clasic ( Hantaran )",
+      "name": "Putu Ayu  clasic",
       "price": 102500,
       "description": "kue tradisional lembut berbahan dasar tepung terigu, kelapa parut, dan santan, dengan bentuk cantik berlapis kelapa di atasnya.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/putu2.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/putu2.jpg"
+      ]
     },
     {
       "id": 1761366079491,
