@@ -270,11 +270,14 @@
     },
     {
       "id": 1761370358502,
-      "name": "Bolu Kukus Mekar  ( Hantaran )",
+      "name": "Bolu Kukus Mekar",
       "price": 92500,
       "description": "kue lembut dan mengembang sempurna yang dibuat dari tepung, telur, gula, dan bahan perisa seperti pandan atau cokelat, dikukus hingga matang.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761370438578,
