@@ -110,11 +110,14 @@
     },
     {
       "id": 1761365658085,
-      "name": "Kue thok  ( Hantaran )",
+      "name": "Kue thok",
       "price": 120000,
       "description": "berbahan dasar tepung ketan dan isian kacang hijau kupas, dibentuk tebal dan padat dengan tekstur kenyal dan lembut.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/tok.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/tok.jpg"
+      ]
     },
     {
       "id": 1761365742441,
