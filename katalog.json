@@ -132,11 +132,14 @@
     },
     {
       "id": 1761365789770,
-      "name": "Jadah Ketan  ( Hantaran )",
+      "name": "Jadah Ketan",
       "price": 126000,
       "description": "-",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/jadah.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/jadah.jpg"
+      ]
     },
     {
       "id": 1761365848544,
