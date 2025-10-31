@@ -296,11 +296,14 @@
     },
     {
       "id": 1761370218863,
-      "name": "Wajik + Jadah  ( Hantaran )",
+      "name": "Wajik + Jadah",
       "price": 315000,
       "description": "kue tradisional wajik manis legit dan jadah gurih lembut, terbuat dari beras ketan, gula merah, partan kelapa dan santan.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/wajikjadah.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/wajikjadah.jpg"
+      ]
     },
     {
       "id": 1761370289022,
