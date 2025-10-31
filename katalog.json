@@ -118,11 +118,14 @@
     },
     {
       "id": 1761365742441,
-      "name": "Putu ayu - Saus gula merah  ( Hantaran )",
+      "name": "Putu ayu - Saus gula merah",
       "price": 112500,
       "description": "kue tradisional lembut berbahan dasar tepung terigu, kelapa parut, dan santan, dengan bentuk cantik berlapis kelapa di atasnya. Disajikan bersama saus gula merah kental dan manis.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/putu.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/putu.jpg"
+      ]
     },
     {
       "id": 1761365789770,
