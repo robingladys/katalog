@@ -99,11 +99,14 @@
     },
     {
       "id": 1761365597291,
-      "name": "Lumpia Tower  ( Hantaran )",
+      "name": "Lumpia Tower",
       "price": 120000,
       "description": "sajian lumpia yang disusun tinggi menyerupai tower, berisi sayuran segar, ayam, atau daging cincang dengan kulit lumpia renyah.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg"
+      ]
     },
     {
       "id": 1761365658085,
