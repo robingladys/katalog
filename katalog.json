@@ -294,11 +294,14 @@
     },
     {
       "id": 1761371550898,
-      "name": "Aneka Kripik  ( Hantaran )",
+      "name": "Aneka Kripik",
       "price": 9999,
       "description": "Aneka perkeripikan dari kripik pisang sampai kripik tempe, di kemas dalam toples dan di hias cantik.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/keripik.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/keripik.jpg"
+      ]
     }
   ],
   "aboutContent": {
