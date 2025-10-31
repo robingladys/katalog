@@ -187,11 +187,14 @@
     },
     {
       "id": 1761368585958,
-      "name": "Pie buah  ( Hantaran )",
+      "name": "Pie buah",
       "price": 132500,
       "description": "kue tart mini dengan kulit pastry renyah yang diisi vla lembut dan dihias dengan aneka potongan buah segar di atasnya.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761368682877,
