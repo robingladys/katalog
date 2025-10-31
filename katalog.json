@@ -277,11 +277,14 @@
     },
     {
       "id": 1761370004874,
-      "name": "Pastel  ( Hantaran )",
+      "name": "Pastel",
       "price": 105000,
       "description": "kue goreng berbentuk setengah lingkaran dengan kulit tipis renyah dan isi sayuran, telur, ayam berbumbu gurih.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761370078128,
