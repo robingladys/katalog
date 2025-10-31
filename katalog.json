@@ -233,11 +233,14 @@
     },
     {
       "id": 1761369522206,
-      "name": "Bikang  ( Hantaran )",
+      "name": "Bikang",
       "price": 105000,
       "description": "kue tradisional berbentuk bunga besar atau motif unik, terbuat dari tepung beras, santan, dan gula.",
       "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "img/gambar.jpg"
+      ]
     },
     {
       "id": 1761369595726,
