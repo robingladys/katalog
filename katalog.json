@@ -341,10 +341,13 @@
     {
       "id": 1761371256666,
       "name": "Wedding Tart",
-      "price": 9999,
+      "price": 190000,
       "description": "kue tart elegan yang dirancang khusus untuk acara pernikahan, biasanya terdiri dari lapisan sponge cake lembut, vla atau krim, dan hiasan dekoratif cantik.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/weddingtart.jpg",
-      "category": "Hantaran"
+      "category": "Hantaran",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/weddingtart.jpg"
+      ]
     },
     {
       "id": 1761371550898,
