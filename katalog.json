@@ -379,5 +379,80 @@
     "secondaryColor": "#2980b9",
     "backgroundColor": "#ecf0f1",
     "textColor": "#2c3e50"
-  }
+  },
+  "cart": {},
+  "pagination": {
+    "currentPage": 1,
+    "productsPerPage": 20,
+    "gridColumns": 2
+  },
+  "salesData": [
+    {
+      "id": 1762269473402,
+      "date": "2025-11-04T15:17:53.402Z",
+      "customerName": "sudirman",
+      "pickupDate": "Kamis, 27 November 2025",
+      "pickupTime": "13:03",
+      "items": [
+        {
+          "id": 1761330047080,
+          "name": "Lemper Kipas",
+          "price": 126000,
+          "quantity": 1,
+          "subtotal": 126000
+        },
+        {
+          "id": 1761330657461,
+          "name": "Bolen pisang",
+          "price": 120000,
+          "quantity": 1,
+          "subtotal": 120000
+        },
+        {
+          "id": 1761365259154,
+          "name": "Bolu gulung Toping",
+          "price": 210000,
+          "quantity": 1,
+          "subtotal": 210000
+        },
+        {
+          "id": 1761365369638,
+          "name": "Wingko babat",
+          "price": 135000,
+          "quantity": 1,
+          "subtotal": 135000
+        },
+        {
+          "id": 1761365440506,
+          "name": "Fudgy brownies",
+          "price": 150000,
+          "quantity": 1,
+          "subtotal": 150000
+        },
+        {
+          "id": 1761365520498,
+          "name": "Telur asin",
+          "price": 190000,
+          "quantity": 1,
+          "subtotal": 190000
+        },
+        {
+          "id": 1761365597291,
+          "name": "Lumpia Tower",
+          "price": 120000,
+          "quantity": 1,
+          "subtotal": 120000
+        },
+        {
+          "id": 1761365658085,
+          "name": "Kue thok",
+          "price": 120000,
+          "quantity": 1,
+          "subtotal": 120000
+        }
+      ],
+      "totalAmount": 1171000,
+      "status": "pending"
+    }
+  ]
 }
