@@ -380,12 +380,6 @@
     "backgroundColor": "#ecf0f1",
     "textColor": "#2c3e50"
   },
-  "cart": {},
-  "pagination": {
-    "currentPage": 1,
-    "productsPerPage": 20,
-    "gridColumns": 2
-  },
   "salesData": [
     {
       "id": 1762269473402,
@@ -452,7 +446,7 @@
         }
       ],
       "totalAmount": 1171000,
-      "status": "pending"
+      "status": "confirmed"
     }
   ]
 }
