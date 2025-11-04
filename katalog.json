@@ -447,6 +447,51 @@
       ],
       "totalAmount": 1171000,
       "status": "cancelled"
+    },
+    {
+      "id": 1762279375992,
+      "date": "2025-11-04T18:02:55.992Z",
+      "customerName": "sudirman2",
+      "pickupDate": "Rabu, 26 November 2025",
+      "pickupTime": "11:00",
+      "items": [
+        {
+          "id": 1761330047080,
+          "name": "Lemper Kipas",
+          "price": 126000,
+          "quantity": 1,
+          "subtotal": 126000
+        },
+        {
+          "id": 1761330657461,
+          "name": "Bolen pisang",
+          "price": 120000,
+          "quantity": 1,
+          "subtotal": 120000
+        },
+        {
+          "id": 1761365259154,
+          "name": "Bolu gulung Toping",
+          "price": 210000,
+          "quantity": 1,
+          "subtotal": 210000
+        },
+        {
+          "id": 1761365369638,
+          "name": "Wingko babat",
+          "price": 135000,
+          "quantity": 1,
+          "subtotal": 135000
+        }
+      ],
+      "totalAmount": 591000,
+      "status": "pending"
     }
-  ]
+  ],
+  "cart": {},
+  "pagination": {
+    "currentPage": 1,
+    "productsPerPage": 20,
+    "gridColumns": 4
+  }
 }
