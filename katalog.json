@@ -485,13 +485,7 @@
         }
       ],
       "totalAmount": 591000,
-      "status": "pending"
+      "status": "cancelled"
     }
-  ],
-  "cart": {},
-  "pagination": {
-    "currentPage": 1,
-    "productsPerPage": 20,
-    "gridColumns": 4
-  }
+  ]
 }
