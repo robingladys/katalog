@@ -350,6 +350,18 @@
         "https://ik.imagekit.io/lendinggggpek/katalog/nampan4.jpg"
       ],
       "category": "Nampan"
+    },
+    {
+      "id": 1763068160209,
+      "name": "Snack box",
+      "price": 20000,
+      "description": "Beberapa kue dalam box untuk semua acara dari arisan, kantor, pengajian sampai acara keluarga.\n*minimal order 25 box",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/snackbox.heic",
+      "images": [
+        "https://ik.imagekit.io/lendinggggpek/katalog/snackbox.heic",
+        "https://ik.imagekit.io/lendinggggpek/katalog/snackbox2.heic"
+      ],
+      "category": "Snack box"
     }
   ]
 }
