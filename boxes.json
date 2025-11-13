@@ -1,0 +1,25 @@
+{
+  "boxes": [
+    {
+      "id": "no-box",
+      "name": "Tanpa Box",
+      "image": "",
+      "isDefault": true,
+      "enabled": true
+    },
+    {
+      "id": "box-1763072830778",
+      "name": "hard box",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg",
+      "isDefault": false,
+      "enabled": true
+    },
+    {
+      "id": "box-1763072840714",
+      "name": "premium",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg",
+      "isDefault": false,
+      "enabled": true
+    }
+  ]
+}
