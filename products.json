@@ -362,22 +362,6 @@
         "https://ik.imagekit.io/lendinggggpek/katalog/snackbox2.heic"
       ],
       "category": "Snack box"
-    },
-    {
-      "id": 1763072855698,
-      "name": "Lemper Kipas test",
-      "price": 126000,
-      "description": "terbuat dari ketan pulen berisi abon atau ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lemper.jpg",
-      "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/lemper.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg"
-      ],
-      "category": "Hantaran",
-      "status": true,
-      "outOfStock": false,
-      "minimalOrder": null,
-      "boxId": "box-1763072830778"
     }
   ]
 }
