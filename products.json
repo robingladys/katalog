@@ -216,10 +216,10 @@
       "name": "Bikang",
       "price": 105000,
       "description": "kue tradisional berbentuk bunga besar atau motif unik, terbuat dari tepung beras, santan, dan gula.",
-      "image": "img/gambar.jpg",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/bikang.jpg",
       "category": "Hantaran",
       "images": [
-        "img/gambar.jpg"
+        "https://ik.imagekit.io/lendinggggpek/katalog/bikang.jpg"
       ]
     },
     {
