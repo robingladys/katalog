@@ -268,10 +268,10 @@
       "name": "Lemper",
       "price": 110000,
       "description": "terbuat dari ketan pulen berisi ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
-      "image": "img/gambar.jpg",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg",
       "category": "Hantaran",
       "images": [
-        "img/gambar.jpg"
+        "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg"
       ]
     },
     {
