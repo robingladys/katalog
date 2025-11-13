@@ -220,8 +220,11 @@
       "name": "Puff Pastry",
       "price": 110000,
       "description": "pastry berlapis yang dibuat dari adonan tepung dan mentega sehingga menghasilkan tekstur ringan, renyah, dan berlapis-lapis saat dipanggang.",
-      "image": "img/gambar.jpg",
-      "category": "Hantaran"
+      "image": "https://thumbsnap.com/i/ZB8WMC27.jpg?1113",
+      "category": "Hantaran",
+      "images": [
+        "https://thumbsnap.com/i/ZB8WMC27.jpg?1113"
+      ]
     },
     {
       "id": 1761369459952,
