@@ -290,10 +290,10 @@
       "name": "Lumpur Kentang",
       "price": 115000,
       "description": "kue tradisional lembut yang terbuat dari kentang, tepung, telur, dan gula, menghasilkan tekstur kenyal dan lembut.",
-      "image": "img/gambar.jpg",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpur.jpg",
       "category": "Hantaran",
       "images": [
-        "img/gambar.jpg"
+        "https://ik.imagekit.io/lendinggggpek/katalog/lumpur.jpg"
       ]
     },
     {
