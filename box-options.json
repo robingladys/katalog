@@ -18,6 +18,15 @@
       "kategori_berlaku": [
         "Hantaran"
       ]
+    },
+    {
+      "id": "box_1763159701607",
+      "nama": "Kardus r5",
+      "gambar": "img/gambar.jpg",
+      "tambahan_harga": 0,
+      "kategori_berlaku": [
+        "Snack Box"
+      ]
     }
   ]
 }
