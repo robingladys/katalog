@@ -5,363 +5,492 @@
       "name": "Lemper Kipas",
       "price": 126000,
       "description": "terbuat dari ketan pulen berisi abon atau ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lemper.jpg",
+      "image": "img/lemper.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/lemper.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg"
-      ]
+        "img/lemper.jpg",
+        "img/lemperbiasa.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": true,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761330657461,
       "name": "Bolen pisang",
       "price": 120000,
       "description": "kue pastry berlapis renyah yang berisi irisan pisang dan cokelat atau keju di dalamnya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/bolenpisang.jpg",
+      "image": "img/bolenpisang.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/bolenpisang.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/bolen.jpg"
-      ]
+        "img/bolenpisang.jpg",
+        "img/bolen.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365259154,
       "name": "Bolu gulung Toping",
       "price": 210000,
       "description": "kue lembut berbentuk gulungan yang diisi selai manis atau krim lembut, kemudian diberi topping menarik seperti keju, cokelat, atau meses di atasnya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/gulung.jpg",
+      "image": "img/gulung.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/gulung.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/gulung2.jpg"
-      ]
+        "img/gulung.jpg",
+        "img/gulung2.jpg"
+      ],
+      "status_stok": "habis",
+      "minimal_order": 1,
+      "opsi_produk_aktif": true,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365369638,
       "name": "Wingko babat",
       "price": 135000,
       "description": "terbuat dari kelapa parut, tepung ketan, gula, dan santan, kemudian dipanggang hingga beraroma harum dan bertekstur kenyal legit.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat.jpg",
+      "image": "img/wingkobabat.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/wingkobabat2.jpg"
-      ]
+        "img/wingkobabat.jpg",
+        "img/wingkobabat2.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": true,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365440506,
       "name": "Fudgy brownies",
       "price": 150000,
       "description": "Fudgy brownies adalah jenis brownies yang memiliki tekstur lembut, padat, dan sangat kenyal di dalamnya. Terbuat dari campuran cokelat leleh, mentega, telur, gula, dan sedikit tepung.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/fudgybrownies.jpg",
+      "image": "img/fudgybrownies.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/fudgybrownies.jpg"
-      ]
+        "img/fudgybrownies.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365520498,
       "name": "Telur asin",
       "price": 190000,
       "description": "olahan telur bebek yang diawetkan dengan cara direndam dalam larutan garam atau dibalut adonan garam dan abu, menghasilkan rasa gurih dan asin khas.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/asin.jpg",
+      "image": "img/asin.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/asin.jpg"
-      ]
+        "img/asin.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365597291,
       "name": "Lumpia Tower",
       "price": 120000,
       "description": "sajian lumpia yang disusun tinggi menyerupai tower, berisi sayuran segar, ayam, atau daging cincang dengan kulit lumpia renyah.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
+      "image": "img/lumpia.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg"
-      ]
+        "img/lumpia.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365658085,
       "name": "Kue thok",
       "price": 120000,
       "description": "berbahan dasar tepung ketan dan isian kacang hijau kupas, dibentuk tebal dan padat dengan tekstur kenyal dan lembut.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/tok.jpg",
+      "image": "img/tok.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/tok.jpg"
-      ]
+        "img/tok.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365742441,
       "name": "Putu ayu - Saus gula merah",
       "price": 112500,
       "description": "kue tradisional lembut berbahan dasar tepung terigu, kelapa parut, dan santan, dengan bentuk cantik berlapis kelapa di atasnya. Disajikan bersama saus gula merah kental dan manis.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/putu.jpg",
+      "image": "img/putu.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/putu.jpg"
-      ]
+        "img/putu.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365789770,
       "name": "Jadah Ketan",
       "price": 150000,
       "description": "Makanan ini terbuat dari ketan (beras ketan) yang dimasak dengan kelapa parut, memberikan rasa gurih yang lezat dan dipadatkan, lalu dibentuk menjadi bentuk hati .",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/jadah.jpg",
+      "image": "img/jadah.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/jadah.jpg"
-      ]
+        "img/jadah.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761365848544,
-      "name": "Putu Ayu  clasic",
+      "name": "Putu Ayu clasic",
       "price": 102500,
       "description": "kue tradisional lembut berbahan dasar tepung terigu, kelapa parut, dan santan, dengan bentuk cantik berlapis kelapa di atasnya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/putu2.jpg",
+      "image": "img/putu2.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/putu2.jpg"
-      ]
+        "img/putu2.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761366079491,
       "name": "Wajik ketan - gula merah",
       "price": 165000,
       "description": "Terbuat dari beras ketan dan gula merah, menghasilkan rasa manis legit dengan aroma khas kelapa dan karamel dari gula merah. Teksturnya lengket dan kenyal, mirip dengan jadah, tetapi wajik biasanya lebih manis dan padat.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/wajik.jpg",
+      "image": "img/wajik.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/wajik.jpg"
-      ]
+        "img/wajik.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761366457110,
       "name": "Puding susu clasic + Vla",
       "price": 117500,
       "description": "terbuat dari susu murni, agar-agar, dan sedikit gula, menghasilkan rasa manis ringan dan creamy. Disajikan dengan vla vanila lembut di atasnya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/pudingvla.jpg?updatedAt=1761370890554",
+      "image": "img/pudingvla.jpg?updatedAt=1761370890554",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/pudingvla.jpg?updatedAt=1761370890554"
-      ]
+        "img/pudingvla.jpg?updatedAt=1761370890554"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761366531770,
       "name": "Caramel",
       "price": 95000,
       "description": "Terbuat dari gula yang dimasak hingga menjadi karamel, kemudian dicampur dengan adonan tepung dan telur.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/karamel.jpg",
+      "image": "img/karamel.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/karamel.jpg"
-      ]
+        "img/karamel.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761368585958,
       "name": "Pie buah",
       "price": 132500,
       "description": "kue tart mini dengan kulit pastry renyah yang diisi vla lembut dan dihias dengan aneka potongan buah segar di atasnya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/pie_buah.webp",
+      "image": "img/pie_buah.webp",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/pie_buah.webp"
-      ]
+        "img/pie_buah.webp"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761368682877,
       "name": "Pie brownies",
       "price": 132500,
       "description": "Perpaduan lezat antara kulit pie renyah dan isian brownies cokelat lembut di dalamnya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0002.jpg?updatedAt=1763037386557",
+      "image": "img/pie-brownies.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0002.jpg?updatedAt=1763037386557"
-      ]
+        "img/pie-brownies.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761368763118,
       "name": "Onde - onde",
       "price": 100000,
       "description": "Jajanan tradisional berbentuk bulat yang terbuat dari tepung ketan, berisi kacang hijau manis, dan dilapisi taburan wijen di bagian luar.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/onde.jpg",
-      "category": "Hantaran"
+      "image": "img/onde.jpg",
+      "category": "Hantaran",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761369387340,
       "name": "Puff Pastry",
       "price": 110000,
       "description": "pastry berlapis yang dibuat dari adonan tepung dan mentega sehingga menghasilkan tekstur ringan, renyah, dan berlapis-lapis saat dipanggang.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0003.jpg?updatedAt=1763037333638",
+      "image": "img/pastry2.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0003.jpg?updatedAt=1763037333638",
-        "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0004.jpg?updatedAt=1763037334448"
-      ]
+        "img/pastry.jpg",
+        "img/pastry2.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761369459952,
       "name": "Dadar gulung mawar",
       "price": 103000,
       "description": "dadar gulung pandan yang diisi kelapa parut manis dan dibentuk menyerupai bunga mawar cantik.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0001.jpg",
+      "image": "img/mawar.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0001.jpg"
-      ]
+        "img/mawar.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761369522206,
       "name": "Bikang",
       "price": 105000,
       "description": "kue tradisional berbentuk bunga besar atau motif unik, terbuat dari tepung beras, santan, dan gula.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/bikang.jpg",
+      "image": "img/bikang.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/bikang.jpg"
-      ]
+        "img/bikang.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761369595726,
       "name": "Proll Tape",
       "price": 115000,
       "description": "terbuat dari adonan tepung dan telur, diisi tape singkong manis fermentasi yang khas rasanya.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/prolltape.jpeg",
+      "image": "img/prolltape.jpeg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/prolltape.jpeg"
-      ]
+        "img/prolltape.jpeg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761369803702,
       "name": "Risol Tower",
       "price": 130000,
       "description": "Sajian Risol yang disusun tinggi menyerupai tower, berisi sayuran segar, ayam, atau daging cincang dengan kulit lumpia renyah.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
+      "image": "img/lumpia.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg"
-      ]
+        "img/lumpia.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761369883058,
       "name": "Sosis solo Tower",
       "price": 150000,
       "description": "sajian soslo yang disusun tinggi menyerupai tower, ayam cincang dengan kulit lumpia renyah.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpia.jpg",
-      "category": "Hantaran"
+      "image": "img/lumpia.jpg",
+      "category": "Hantaran",
+      "images": [
+        "img/lumpia.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761370004874,
       "name": "Pastel",
       "price": 105000,
       "description": "kue goreng berbentuk setengah lingkaran dengan kulit tipis renyah dan isi sayuran, telur, ayam berbumbu gurih.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0005.jpg",
+      "image": "img/pastel.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/IMG-20251113-WA0005.jpg"
-      ]
+        "img/pastel.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761370078128,
       "name": "Lemper",
       "price": 110000,
       "description": "terbuat dari ketan pulen berisi ayam suwir berbumbu gurih, kemudian dibungkus dengan daun pisang dan dikukus.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg",
+      "image": "img/lemperbiasa.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/lemperbiasa.jpg"
-      ]
+        "img/lemperbiasa.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761370218863,
       "name": "Wajik + Jadah",
       "price": 315000,
       "description": "kue tradisional wajik manis legit dan jadah gurih lembut, terbuat dari beras ketan, gula merah, parutan kelapa dan santan.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/wajikjadah.jpg",
+      "image": "img/wajikjadah.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/wajikjadah.jpg"
-      ]
+        "img/wajikjadah.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761370289022,
       "name": "Lumpur Kentang",
       "price": 115000,
       "description": "kue tradisional lembut yang terbuat dari kentang, tepung, telur, dan gula, menghasilkan tekstur kenyal dan lembut.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/lumpur.jpg",
+      "image": "img/lumpur.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/lumpur.jpg"
-      ]
+        "img/lumpur.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761370358502,
       "name": "Bolu Kukus Mekar",
       "price": 92500,
       "description": "kue lembut dan mengembang sempurna yang dibuat dari tepung, telur, gula, dan bahan perisa seperti pandan atau cokelat, dikukus hingga matang.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/kukus.webp",
+      "image": "img/kukus.webp",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/kukus.webp"
-      ]
+        "img/kukus.webp"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761370438578,
       "name": "Parcell Buah Polynett",
       "price": 250000,
       "description": "Rangkaian buah segar pilihan yang disusun cantik dalam keranjang atau kemasan elegan, cocok untuk hadiah, ucapan selamat, atau hampers acara spesial.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/parcell.jpg?updatedAt=1761370956953",
-      "category": "Hantaran"
+      "image": "img/parcell.jpg",
+      "category": "Hantaran",
+      "images": [
+        "img/parcell.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761371256666,
       "name": "Wedding Tart",
       "price": 190000,
       "description": "kue tart elegan yang dirancang khusus untuk acara pernikahan, biasanya terdiri dari lapisan sponge cake lembut, vla atau krim, dan hiasan dekoratif cantik.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/weddingtart.jpg",
+      "image": "img/weddingtart.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/weddingtart.jpg"
-      ]
+        "img/weddingtart.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
       "id": 1761371550898,
       "name": "Aneka Kripik",
       "price": 150000,
       "description": "Aneka perkeripikan dari kripik pisang sampai kripik tempe, di kemas dalam toples dan di hias cantik.",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/keripik.jpg",
+      "image": "img/keripik.jpg",
       "category": "Hantaran",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/keripik.jpg"
-      ]
+        "img/keripik.jpg"
+      ],
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     },
     {
-      "id": 1763066452828,
-      "name": "Kue Nampan",
-      "price": 148000,
-      "description": "4 nampan kue ( Beberapa jenis kue dalam nampan praktis untuk hidangan acara keluarga, arisan, pengajian dll.)",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/nampan2.jpg",
+      "id": 999,
+      "name": "Snack Box Kenangan",
+      "price": 150000,
+      "description": "Pilih 3 item favorit Anda untuk dikemas dalam satu box.",
+      "image": "img/parcell.jpg",
+      "category": "Snack Box",
       "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/nampan2.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/nampan.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/nampan3.jpg",
-        "https://ik.imagekit.io/lendinggggpek/katalog/nampan4.jpg"
+        "img/parcell.jpg"
       ],
-      "category": "Nampan"
-    },
-    {
-      "id": 1763068160209,
-      "name": "Snack box",
-      "price": 12000,
-      "description": "Beberapa kue mini dalam box untuk semua acara dari arisan, kantor, pengajian sampai acara keluarga.\n*minimal order 25 box",
-      "image": "https://ik.imagekit.io/lendinggggpek/katalog/snackbox.heic",
-      "images": [
-        "https://ik.imagekit.io/lendinggggpek/katalog/snackbox.heic",
-        "https://ik.imagekit.io/lendinggggpek/katalog/snackbox2.heic"
-      ],
-      "category": "Snack box"
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": true,
+      "tipe_produk": "paket_snack_box",
+      "komponen_paket": {
+        "produk_id_yang_boleh_dipilih": [
+          1761330047080,
+          1761330657461,
+          1761365259154,
+          1761365369638,
+          1761365440506
+        ],
+        "jumlah_wajib_pilih": 3
+      }
     }
   ]
 }
