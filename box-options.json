@@ -28,6 +28,16 @@
       "kategori_berlaku": [
         "Snack Box"
       ]
+    },
+    {
+      "id": "box_1763139382811",
+      "nama": "hard box",
+      "gambar": "https://ik.imagekit.io/robingladys/box-mewah-besar_jd8o4p.jpg",
+      "tambahan_harga": 10000,
+      "kategori_berlaku": [
+        "Hantaran",
+        "Hampers"
+      ]
     }
   ]
 }
