@@ -12,7 +12,7 @@
         "img/lemperbiasa.jpg"
       ],
       "status_stok": "tersedia",
-      "minimal_order": 1,
+      "minimal_order": 3,
       "opsi_produk_aktif": true,
       "tipe_produk": "tunggal"
     },
