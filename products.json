@@ -11,7 +11,7 @@
         "img/lemper.jpg",
         "img/lemperbiasa.jpg"
       ],
-      "status_stok": "tersedia",
+      "status_stok": "habis",
       "minimal_order": 1,
       "opsi_produk_aktif": true,
       "tipe_produk": "tunggal"
