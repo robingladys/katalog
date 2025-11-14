@@ -12,7 +12,7 @@
         "img/lemperbiasa.jpg"
       ],
       "status_stok": "tersedia",
-      "minimal_order": 5,
+      "minimal_order": 1,
       "opsi_produk_aktif": true,
       "tipe_produk": "tunggal"
     },
@@ -27,7 +27,7 @@
         "img/bolenpisang.jpg",
         "img/bolen.jpg"
       ],
-      "status_stok": "habis",
+      "status_stok": "tersedia",
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
