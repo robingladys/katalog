@@ -12,7 +12,7 @@
         "img/lemperbiasa.jpg"
       ],
       "status_stok": "tersedia",
-      "minimal_order": 5,
+      "minimal_order": 1,
       "opsi_produk_aktif": true,
       "tipe_produk": "tunggal"
     },
@@ -43,7 +43,7 @@
         "img/gulung.jpg",
         "img/gulung2.jpg"
       ],
-      "status_stok": "tersedia",
+      "status_stok": "habis",
       "minimal_order": 1,
       "opsi_produk_aktif": true,
       "tipe_produk": "tunggal"
