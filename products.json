@@ -496,21 +496,6 @@
         ],
         "jumlah_wajib_pilih": 5
       }
-    },
-    {
-      "id": 1763140850160,
-      "name": "tes",
-      "price": 15000,
-      "description": "tes",
-      "image": "img/gambar.jpg",
-      "images": [
-        "img/gambar.jpg"
-      ],
-      "category": "Hantaran",
-      "status_stok": "tersedia",
-      "minimal_order": 1,
-      "opsi_produk_aktif": true,
-      "tipe_produk": "tunggal"
     }
   ]
 }
