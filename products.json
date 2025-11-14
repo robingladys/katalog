@@ -469,16 +469,16 @@
     },
     {
       "id": 999,
-      "name": "Snack Box Kenangan",
+      "name": "Snack Box5",
       "price": 150000,
-      "description": "Pilih 3 item favorit Anda untuk dikemas dalam satu box.",
+      "description": "Pilih 5 item favorit Anda untuk dikemas dalam satu box.",
       "image": "img/parcell.jpg",
       "category": "Snack Box",
       "images": [
         "img/parcell.jpg"
       ],
       "status_stok": "tersedia",
-      "minimal_order": 1,
+      "minimal_order": 30,
       "opsi_produk_aktif": true,
       "tipe_produk": "paket_snack_box",
       "komponen_paket": {
@@ -494,7 +494,7 @@
           1761365742441,
           1761365789770
         ],
-        "jumlah_wajib_pilih": 3
+        "jumlah_wajib_pilih": 5
       }
     }
   ]
