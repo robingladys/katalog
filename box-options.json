@@ -1,0 +1,33 @@
+{
+  "opsiBoxGlobal": [
+    {
+      "id": "box_mewah_besar",
+      "nama": "Box Mewah Besar",
+      "gambar": "https://ik.imagekit.io/robingladys/box-mewah-besar_jd8o4p.jpg",
+      "tambahan_harga": 10000,
+      "kategori_berlaku": [
+        "Hantaran",
+        "Hampers"
+      ]
+    },
+    {
+      "id": "box_sedang",
+      "nama": "Box Sedang",
+      "gambar": "https://ik.imagekit.io/robingladys/box-sedang_p6b2jz.jpg",
+      "tambahan_harga": 5000,
+      "kategori_berlaku": [
+        "Snack Box",
+        "Hantaran"
+      ]
+    },
+    {
+      "id": "box_kecil",
+      "nama": "Box Kecil",
+      "gambar": "https://ik.imagekit.io/robingladys/box-kecil_lgq7k8.jpg",
+      "tambahan_harga": 2000,
+      "kategori_berlaku": [
+        "Snack Box"
+      ]
+    }
+  ]
+}
