@@ -496,36 +496,6 @@
         ],
         "jumlah_wajib_pilih": 5
       }
-    },
-    {
-      "id": 1763139681580,
-      "name": "tes",
-      "price": 15000,
-      "description": "sdadaf",
-      "image": "img/gambar.jpg",
-      "images": [
-        "img/gambar.jpg"
-      ],
-      "category": "Hantaran",
-      "status_stok": "tersedia",
-      "minimal_order": 1,
-      "opsi_produk_aktif": true,
-      "tipe_produk": "tunggal"
-    },
-    {
-      "id": 1763139976722,
-      "name": "tes",
-      "price": 10000,
-      "description": "sdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfa\nsdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfasdasfasfa",
-      "image": "img/gambar.jpg",
-      "images": [
-        "img/gambar.jpg"
-      ],
-      "category": "Hantaran",
-      "status_stok": "habis",
-      "minimal_order": 1,
-      "opsi_produk_aktif": true,
-      "tipe_produk": "tunggal"
     }
   ]
 }
