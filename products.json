@@ -469,8 +469,8 @@
     },
     {
       "id": 999,
-      "name": "Snack Box5",
-      "price": 150000,
+      "name": "Paker isi 5",
+      "price": 15000,
       "description": "Pilih 5 item favorit Anda untuk dikemas dalam satu box.",
       "image": "img/parcell.jpg",
       "category": "Snack Box",
@@ -478,7 +478,7 @@
         "img/parcell.jpg"
       ],
       "status_stok": "tersedia",
-      "minimal_order": 30,
+      "minimal_order": 25,
       "opsi_produk_aktif": true,
       "tipe_produk": "paket_snack_box",
       "komponen_paket": {
