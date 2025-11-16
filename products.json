@@ -469,13 +469,14 @@
     },
     {
       "id": 999,
-      "name": "PAKET-5",
-      "price": 15000,
-      "description": "Pilih 5 item kue favorit Anda untuk dikemas dalam satu box.",
-      "image": "img/parcell.jpg",
+      "name": "PAKET-6",
+      "price": 1000,
+      "description": "Pilih 6 item kue favorit Anda untuk dikemas dalam satu box.",
+      "image": "https://ik.imagekit.io/lendinggggpek/katalog/snackbox2.heic",
       "category": "Snack Box",
       "images": [
-        "img/parcell.jpg"
+        "https://ik.imagekit.io/lendinggggpek/katalog/snackbox2.heic",
+        "https://ik.imagekit.io/lendinggggpek/katalog/snackbox.heic"
       ],
       "status_stok": "tersedia",
       "minimal_order": 25,
@@ -494,7 +495,7 @@
           1761365742441,
           1761365789770
         ],
-        "jumlah_wajib_pilih": 5
+        "jumlah_wajib_pilih": 6
       }
     }
   ]
