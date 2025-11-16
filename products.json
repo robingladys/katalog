@@ -27,7 +27,7 @@
         "img/bolenpisang.jpg",
         "img/bolen.jpg"
       ],
-      "status_stok": "tersedia",
+      "status_stok": "habis",
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
