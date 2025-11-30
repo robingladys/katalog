@@ -497,6 +497,21 @@
         ],
         "jumlah_wajib_pilih": 6
       }
+    },
+    {
+      "id": 1764547094261,
+      "name": "Lemper",
+      "price": 2500,
+      "description": "terbuat dari ketan pulen berisi ayam suwir berbumbu gurih, kemudian dibungkus",
+      "image": "img/gambar.jpg",
+      "images": [
+        "img/gambar.jpg"
+      ],
+      "category": "Kue Tradisional",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     }
   ]
 }
