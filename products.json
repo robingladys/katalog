@@ -470,7 +470,7 @@
     {
       "id": 999,
       "name": "PAKET-6",
-      "price": 999999,
+      "price": 0,
       "description": "Pilih 6 item kue favorit Anda untuk dikemas dalam satu box.",
       "image": "https://ik.imagekit.io/lendinggggpek/katalog/snackbox2.heic",
       "category": "Snack Box",
@@ -484,18 +484,21 @@
       "tipe_produk": "paket_snack_box",
       "komponen_paket": {
         "produk_id_yang_boleh_dipilih": [
-          1761330047080,
-          1761330657461,
           1761365259154,
-          1761365369638,
-          1761365440506,
-          1761365520498,
-          1761365597291,
-          1761365658085,
-          1761365742441,
-          1761365789770
+          1761369883058,
+          1761370004874,
+          1761370078128,
+          1761370218863,
+          1761370289022,
+          1761370358502,
+          1761370438578,
+          1761371256666,
+          1761371550898,
+          1764547094261
         ],
-        "jumlah_wajib_pilih": 6
+        "jumlah_wajib_pilih": 6,
+        "minimal_order_paket": 25,
+        "deskripsi": ""
       }
     },
     {
