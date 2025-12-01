@@ -547,6 +547,21 @@
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
+    },
+    {
+      "id": 1764560125147,
+      "name": "Wingko babat",
+      "price": 3000,
+      "description": "terbuat dari kelapa parut, tepung ketan, gula, dan santan, kemudian dipanggang hingga beraroma",
+      "image": "img/wingkobabat.jpg",
+      "images": [
+        "img/wingkobabat.jpg"
+      ],
+      "category": "Aneka Kue",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     }
   ]
 }
