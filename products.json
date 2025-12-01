@@ -577,6 +577,22 @@
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
+    },
+    {
+      "id": 1764560267875,
+      "name": "Putu Ayu",
+      "price": 2500,
+      "description": "kue tradisional lembut berbahan dasar tepung terigu, kelapa parut, dan santan, dengan bentuk",
+      "image": "img/putu2.jpg",
+      "images": [
+        "img/putu2.jpg",
+        "img/putu.jpg"
+      ],
+      "category": "Aneka Kue",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     }
   ]
 }
