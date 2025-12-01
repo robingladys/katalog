@@ -507,11 +507,11 @@
       "name": "Lemper",
       "price": 2500,
       "description": "terbuat dari ketan pulen berisi ayam suwir berbumbu gurih, kemudian dibungkus",
-      "image": "img/gambar.jpg",
+      "image": "img/lemper.jpg",
       "images": [
-        "img/gambar.jpg"
+        "img/lemper.jpg"
       ],
-      "category": "Kue Tradisional",
+      "category": "Aneka Kue",
       "status_stok": "tersedia",
       "minimal_order": 1,
       "opsi_produk_aktif": false,
