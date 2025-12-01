@@ -562,6 +562,21 @@
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
+    },
+    {
+      "id": 1764560218885,
+      "name": "Lumpia",
+      "price": 2500,
+      "description": "berisi sayuran segar, ayam, atau daging",
+      "image": "img/lumpia.jpg",
+      "images": [
+        "img/lumpia.jpg"
+      ],
+      "category": "Aneka Kue",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     }
   ]
 }
