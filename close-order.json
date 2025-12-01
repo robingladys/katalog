@@ -1,8 +1,8 @@
 {
   "closeOrderSettings": {
-    "enabled": false,
-    "startDate": "",
-    "endDate": "",
+    "enabled": true,
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-30",
     "message": "Maaf, toko kami sedang tutup. Silakan kembali lagi nanti."
   }
 }
