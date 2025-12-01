@@ -531,6 +531,22 @@
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
+    },
+    {
+      "id": 1764560016628,
+      "name": "Bolen pisang",
+      "price": 3000,
+      "description": "kue pastry berlapis renyah yang berisi irisan pisang dan cokelat atau keju di dalamnya.",
+      "image": "img/bolenpisang.jpg",
+      "images": [
+        "img/bolenpisang.jpg",
+        "img/bolen.jpg"
+      ],
+      "category": "Aneka Kue",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     }
   ]
 }
