@@ -515,6 +515,21 @@
       "minimal_order": 1,
       "opsi_produk_aktif": false,
       "tipe_produk": "tunggal"
+    },
+    {
+      "id": 1764559509573,
+      "name": "Lumpur",
+      "price": 2500,
+      "description": "Lumpur kue tradisional",
+      "image": "img/gambar.jpg",
+      "images": [
+        "img/gambar.jpg"
+      ],
+      "category": "Kue Tradisional",
+      "status_stok": "tersedia",
+      "minimal_order": 1,
+      "opsi_produk_aktif": false,
+      "tipe_produk": "tunggal"
     }
   ]
 }
