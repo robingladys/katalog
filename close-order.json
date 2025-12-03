@@ -1,8 +1,8 @@
 {
   "closeOrderSettings": {
-    "enabled": true,
+    "enabled": false,
     "startDate": "2025-12-01",
-    "endDate": "2025-12-25",
+    "endDate": "",
     "message": "Maaf, toko kami sedang tutup untuk Desember. Silakan kembali lagi nanti. Sampai akhir desember FUll ORDER !! "
   }
 }
