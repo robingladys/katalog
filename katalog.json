@@ -1,0 +1,107 @@
+{
+  "siteSettings": {
+    "title": "DJANDES",
+    "description": "Jl. Anggrek , RT 004 / RW 013, Tegalrejo, Sawentar, Kanigoro, Blitar",
+    "logo": "img/gambar.jpg"
+  },
+  "socialMedia": {
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "tiktok": ""
+  },
+  "contactInfo": {
+    "whatsapp": "+62 858-1200-6225",
+    "phone": "+62 858-1200-6225",
+    "email": "",
+    "address": "Jl. Anggrek , RT 004 / RW 013, Tegalrejo, Sawentar, Kanigoro, Blitar.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3949.8109453560633!2d112.2325264!3d-8.1207225!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78ebac417b43f7%3A0x806e165d29a57022!2sDjandes%20Sweet%20and%20Savoury!5e0!3m2!1sen!2sid!4v1761328323193!5m2!1sen!2sid",
+    "businessHours": "Senin - Minggu: 08:00 - 20:00 WIB"
+  },
+  "aboutContent": {
+    "title": "Tentang DJANDES",
+    "description": "Sweet & Savoury - Kue Basah, Hantaran",
+    "detail": "DJANDES adalah home made kue basah lokal yang menyajikan berbagai macam kue tradisional dan modern dengan cita rasa autentik dan kualitas terbaik.",
+    "history": "Berdiri sejak 2021, DJANDES telah melayani puluhan pelanggan dengan berbagai produk kue basah yang lezat dan berkualitas.",
+    "vision": "Menjadi toko kue basah terdepan yang selalu memberikan pengalaman terbaik bagi pelanggan.",
+    "mission": "Menyediakan kue basah dengan bahan berkualitas, rasa autentik, dan pelayanan terbaik.",
+    "commitment": "Kami berkomitmen untuk selalu menggunakan bahan-bahan terbaik dan menjaga cita rasa tradisional dalam setiap produk yang kami sajikan.",
+    "quality": "Menggunakan bahan-bahan pilihan dan proses pembuatan yang higienis untuk menjamin kualitas terbaik.",
+    "fresh": "Semua kue dibuat fresh setiap hari sehingga Anda selalu mendapatkan produk yang segar dan enak.",
+    "service": "Kami siap melayani dengan ramah dan profesional untuk memastikan pengalaman berbelanja yang menyenangkan.",
+    "delivery": "Melayani pengantaran pesanan dengan jasa kurir, cepat dan tepat waktu ke seluruh area di Blitar (syarat & ketentuan berlaku)."
+  },
+  "categories": [
+    "Semua",
+    "Kue Tradisional",
+    "Hantaran",
+    "Kue Modern",
+    "Kue Kering"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Klepon",
+      "price": 5000,
+      "description": "Kue tradisional berisi gula merah yang lumer di mulut dengan taburan kelapa parut",
+      "image": "img/klepon.jpg",
+      "images": [
+        "img/klepon1.jpg",
+        "img/klepon2.jpg",
+        "img/klepon3.jpg"
+      ],
+      "category": "Kue Tradisional"
+    },
+    {
+      "id": 2,
+      "name": "Lapis Legit",
+      "price": 45000,
+      "description": "Kue lapis legit dengan rasa manis dan tekstur lembut yang berlapis-lapis",
+      "image": "img/lapis-legit.jpg",
+      "images": [
+        "img/lapis-legit1.jpg",
+        "img/lapis-legit2.jpg"
+      ],
+      "category": "Kue Tradisional"
+    },
+    {
+      "id": 3,
+      "name": "Brownies Coklat",
+      "price": 25000,
+      "description": "Brownies coklat premium dengan tekstur lembut dan padat, rasa coklat yang kuat",
+      "image": "img/brownies.jpg",
+      "images": [
+        "img/brownies1.jpg",
+        "img/brownies2.jpg",
+        "img/brownies3.jpg"
+      ],
+      "category": "Kue Modern"
+    },
+    {
+      "id": 4,
+      "name": "Kastengel Keju",
+      "price": 35000,
+      "description": "Kue kering keju dengan rasa gurih dan renyah, taburan keju parut di atasnya",
+      "image": "img/kastengel.jpg",
+      "images": [
+        "img/kastengel1.jpg",
+        "img/kastengel2.jpg"
+      ],
+      "category": "Kue Kering"
+    },
+    {
+      "id": 5,
+      "name": "Hantaran Premium",
+      "price": 150000,
+      "description": "Paket hantaran lengkap dengan berbagai macam kue tradisional dan modern",
+      "image": "img/hantaran.jpg",
+      "images": [
+        "img/hantaran1.jpg",
+        "img/hantaran2.jpg",
+        "img/hantaran3.jpg",
+        "img/hantaran4.jpg"
+      ],
+      "category": "Hantaran"
+    }
+  ]
+}
